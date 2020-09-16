@@ -1,4 +1,4 @@
-module github.com/xfali/neve/neve-utils
+module github.com/xfali/neve-utils
 
 go 1.14
 
